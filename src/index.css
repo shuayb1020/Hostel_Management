@@ -1,0 +1,244 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*{
+  margin: 0;
+  /* font-family: "Quicksand"; */
+  color: rgb(29, 28, 28);
+}
+.content{
+  /* max-width:600px; */
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.welcome{
+  max-width: 400px;
+  margin: 120px auto;
+  padding: 20px;
+  background-color: rgb(141, 135, 135);
+  
+}
+.landing{
+  padding: 15px 16px;
+  margin: 50px 50px;
+  
+}
+.landing h2{
+  font-size: 25px;
+  color: #fff;
+  margin-bottom: 45px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.landing a {
+  display: block;
+  padding: 8px 0;
+  margin: 0 25px;
+  text-decoration: none;
+  background: red;
+  text-align: center;
+  color: white;
+  border-radius: 5px;
+}
+.landing a:hover {
+  background-color: aquamarine;
+  color: black;
+}
+/* registration */
+.registration{
+  max-width: 400px;
+  margin: 50px auto;
+  text-align: center;
+}
+.registration label{
+  text-align: left;
+  display: block;
+}
+
+.registration h2{
+  font-size: 20px;
+  color: orangered;
+  margin-bottom: 30px;
+}
+
+.registration input {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid rgb(201, 197, 197);
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: block;
+
+}
+.registration button{
+  background: rgb(252, 76, 12);;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+/* login */
+.login{
+  max-width: 400px;
+  margin: 90px auto;
+  text-align: center;
+}
+.login label{
+  text-align: left;
+  display: block;
+}
+
+.login input {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid rgb(201, 197, 197);
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: block;
+
+}
+.login button{
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+/* home */
+.navbar{
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f3f3f3;
+}
+.navbar{
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+  margin: -18px ;
+  border-bottom: 1px solid #f3f3f3;
+  background-color: black;
+}
+.navbar h1{
+  color: #f1356d;
+}
+.navbar .links{
+  margin-left: auto;
+}
+.navbar a{
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+  color: #f1356d;
+  display: inline-block;
+}
+.navbar a:hover{
+  color: red;
+}
+.dashboard{
+  margin: 20px 0;
+}
+.dashboard h2{
+  color: #f1356d;
+  font-size: 20px;
+}
+.inf{
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #fafafa;
+  background-color: #fafafa;
+  margin: 5px; 
+  padding: 15px;
+  font-size: 25px;
+  width: 400px;
+  overflow-x: hidden;
+  border-radius: 5px;
+  height: 20%;
+}
+.container{
+  margin-top: 90px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+/* complaint page */
+.complain{
+  max-width: 400px;
+  margin: 100px auto;
+  text-align: center;
+}
+.complain label{
+  text-align: left;
+  display: block;
+}
+
+.complain h2{
+  font-size: 20px;
+  color: orangered;
+  margin-bottom: 30px;
+}
+
+.complain input,select,textarea {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid rgb(201, 197, 197);
+  border-radius: 5px;
+  box-sizing: border-box;
+  display: block;
+
+}
+.registration button{
+  background: rgb(252, 76, 12);;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.complain button{
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+/* summary */
+.summary{
+  max-width: 600px;
+  margin: 90px auto;
+  align-items: center;
+}
+.complain-preview{
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #fafafa;
+  
+}
+.complain-preview, .inf:hover{
+  box-shadow: 1px 3px 5px rgba(0,0,0,0.4);
+}
+.complain-preview h2{
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 8px;
+}
+.load, .title{
+  color: #f1356d;
+}

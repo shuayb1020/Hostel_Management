@@ -1,0 +1,176 @@
+{
+  "info": [
+    {
+      "surName": "Tijani",
+      "otherNames": "Waliu Ade",
+      "email": "waliu@gmail.com",
+      "matric": "125/19/1/001",
+      "password": "Adewale",
+      "id": 1
+    },
+    {
+      "surName": "Tijani",
+      "otherNames": "Waliyullah",
+      "email": "tjwaliu@yahoo.com",
+      "matric": "125/19/1/00303",
+      "password": "wallali",
+      "id": 2
+    },
+    {
+      "surName": "fhatrdghajdgf",
+      "otherNames": "sfahetjkreeresd",
+      "email": "asWTWED@GMAIL.com",
+      "matric": "eqteTrq1EYTGWE",
+      "password": "zhETUAE5D",
+      "id": 3
+    },
+    {
+      "surName": "whdfkhduiefwq",
+      "otherNames": "rqtwrvgfqwed",
+      "email": "sgkhJGA@JKDLGJK",
+      "matric": "JHKSHGJA",
+      "password": "JKHOGHR",
+      "id": 4
+    },
+    {
+      "firstName": "Shuayb",
+      "lastName": "Abdul-Yakeen",
+      "matricNo": "125/19/1/0059",
+      "password": "987654",
+      "email_adddress": "shuayb.abdul-yakeen@tech-u.edu.ng",
+      "id": 5
+    },
+    {
+      "firstName": "Shuayb",
+      "lastName": "Abdul-Yakeen",
+      "matricNo": "125/19/1/0059",
+      "password": "IIIIII",
+      "email_adddress": "shuaybopeyemi@yahoo.com",
+      "id": 6
+    },
+    {
+      "firstName": "Lutfah",
+      "lastName": "Tijani",
+      "matricNo": "125/17/1/0179",
+      "password": "jjhgdgf",
+      "email_adddress": "lutfahtijani@gmail",
+      "id": 7
+    },
+    {
+      "firstName": "Barakah",
+      "lastName": "Oladoyin",
+      "matricNo": "125/9/10/0050",
+      "password": "barakat",
+      "program": "MCB",
+      "level": "Part 2",
+      "block": "El-Salem",
+      "room": "Room 2",
+      "bed": "Bed 3",
+      "email_adddress": "oladee@gmail.com",
+      "id": 8
+    },
+    {
+      "matric": "125/19/1/0059",
+      "password": "IIIIII",
+      "id": 9
+    },
+    {
+      "matric": "SAUHYuidu@jjjkl",
+      "password": "pppppp",
+      "id": 10
+    },
+    {
+      "matric": "oladee@gmail.com",
+      "password": "hhhhhh",
+      "id": 11
+    },
+    {
+      "matric": "oladee@gmail.com",
+      "password": "hhhhhh",
+      "id": 12
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "matricNo": "",
+      "password": "       ",
+      "program": "",
+      "level": "Part 1",
+      "block": "",
+      "room": "",
+      "bed": "",
+      "email_adddress": "",
+      "id": 13
+    },
+    {
+      "firstName": "John",
+      "lastName": "Adewale",
+      "matricNo": "12344566",
+      "password": "vvvv",
+      "program": "MCB",
+      "level": "Part 3",
+      "block": "El-Salem",
+      "room": "Room 6",
+      "bed": "Bed 4",
+      "email_adddress": "shuaybopeyemi@gmail.com",
+      "id": 14
+    },
+    {
+      "firstName": "Shuayb",
+      "lastName": "Adewale",
+      "matricNo": "125/19/1/0059",
+      "password": "jjlloiji",
+      "program": "MCB",
+      "level": "Part 1",
+      "block": "El-Salem",
+      "room": "Room 6",
+      "bed": "Bed 3",
+      "email_adddress": "shuaybopeyemi@yahoo.com",
+      "id": 15
+    },
+    {
+      "firstName": "John",
+      "lastName": "Oladoyin",
+      "matricNo": "12344566",
+      "password": "aaaa",
+      "program": "BME",
+      "level": "Part 1",
+      "block": "El-Salem",
+      "room": "Room 2",
+      "bed": "Bed 3",
+      "email_adddress": "Oladoyinjohn@gmail.com",
+      "id": 16
+    },
+    {
+      "firstName": "Shuayb",
+      "lastName": "Abdul-Yakeen",
+      "matricNo": "125/19/1/0059",
+      "password": "opeyemi",
+      "program": "Software Enginering",
+      "level": "Part 3",
+      "block": "El-Salem",
+      "room": "Room 2",
+      "bed": "Bed 3",
+      "email_adddress": "shuayb.abdul-yakeen@tech-u.edu.ng",
+      "id": 17
+    }
+  ],
+  "complain": [
+    {
+      "strtDate": "2022-12-22",
+      "reprtDate": "2022-12-22",
+      "category": "",
+      "subject": "Spoilt Socket",
+      "description": "All socket in the room are not working properly",
+      "id": 1
+    },
+    {
+      "strtDate": "2022-10-03",
+      "reprtDate": "2022-10-04",
+      "category": "Plumbing",
+      "subject": "Water blockage",
+      "description": "water is not moving out through the floor drain",
+      "id": 2
+    }
+  ]
+}
